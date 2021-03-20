@@ -1,4 +1,4 @@
-Hackintosh for Acer A515-51G-85J9, made with [opencore](https://dortania.github.io)
+Hackintosh for Acer A515-51G-85J9, made with [opencore](https://dortania.github.io) 0.6.7
 
 Added tools to disable [CFG Lock](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html)
 
