@@ -6,4 +6,12 @@ MacOS Monterey (12.x.x), has bugs: USB-C isn't working, Bluetooth isn't working,
 
 Added tools to disable [CFG Lock](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html)
 
+Added folder to fix crackling sound when using wired headphones (jack) -> open terminal, 
+"""
+cd jack fix 
+sudo cp -R had-verb /usr/local/bin
+./Jack\ fix
+"""
+Recommendation: settings -> users & groups -> login items -> press on the + at the bottom -> select "Jack fix" executable
+
 credits: [SiddheshNan](https://github.com/SiddheshNan) for base EFI
