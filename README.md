@@ -5,7 +5,7 @@ Supported versions:
 
 MacOS Big Sur (11.x.x) is working almost bugless.
 
-MacOS Monterey (12.x.x), has bugs: <s>USB-C isn't working</s <- fixed, Bluetooth isn't working, it takes long to boot.
+MacOS Monterey (12.x.x), has bugs: <s>USB-C isn't working</s> <- fixed, Bluetooth isn't working, it takes long to boot.
 
 
 USB Tethering doesn't works well
